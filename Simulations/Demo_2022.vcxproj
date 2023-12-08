@@ -233,6 +233,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DrawingUtilitiesClass.h" />
+    <ClInclude Include="MassSpringSystemSimulator.h" />
+    <ClInclude Include="Point.h" />
     <ClInclude Include="RigidBodySystemSimulator.h" />
     <ClInclude Include="Simulator.h" />
     <ClInclude Include="Spring.h" />
